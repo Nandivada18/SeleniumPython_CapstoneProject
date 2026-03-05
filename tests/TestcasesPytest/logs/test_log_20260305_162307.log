@@ -1,0 +1,14 @@
+2026-03-05 16:23:07,692 - INFO - ====== WebDriver manager ======
+2026-03-05 16:23:11,626 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 16:23:12,805 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-05 16:23:13,828 - INFO - Driver [C:\Users\prasa\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 16:23:18,200 - INFO - Opening application
+2026-03-05 16:23:33,185 - INFO - Successfully Logged in
+2026-03-05 16:23:33,232 - INFO - Now adding Products
+2026-03-05 16:23:54,400 - INFO - Products added to cart
+2026-03-05 16:23:54,403 - INFO - Checkout the Products
+2026-03-05 16:24:01,332 - INFO - Now Giving Shipping Address
+2026-03-05 16:24:10,309 - INFO - Successfully Ordered Placed
+2026-03-05 16:24:17,232 - INFO - Receipt Successfully Downloaded
+2026-03-05 16:24:17,233 - INFO - Back to Home Page
+2026-03-05 16:24:20,795 - INFO - Logged out Successfully
