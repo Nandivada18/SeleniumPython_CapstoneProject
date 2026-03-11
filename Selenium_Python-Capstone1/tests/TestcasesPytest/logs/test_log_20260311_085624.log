@@ -1,0 +1,83 @@
+2026-03-11 08:56:24,712 - INFO - xdist worker is: gw0
+2026-03-11 08:56:24,714 - INFO - ====== WebDriver manager ======
+2026-03-11 08:56:24,717 - INFO - xdist worker is: gw1
+2026-03-11 08:56:24,717 - INFO - ====== WebDriver manager ======
+2026-03-11 08:56:24,741 - INFO - xdist worker is: gw2
+2026-03-11 08:56:24,741 - INFO - ====== WebDriver manager ======
+2026-03-11 08:56:27,268 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:56:27,361 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:56:28,140 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:56:28,178 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:56:28,261 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:56:29,053 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:56:29,053 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:56:29,116 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:56:30,894 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-11 08:56:30,900 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-11 08:56:30,908 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-11 08:56:30,908 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-11 08:56:30,912 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-11 08:56:30,912 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-11 08:56:30,965 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-11 08:56:30,980 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-11 08:56:30,980 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-11 08:56:31,862 - INFO - Driver downloading response is 200
+2026-03-11 08:56:31,866 - INFO - Driver downloading response is 200
+2026-03-11 08:56:31,880 - INFO - Driver downloading response is 200
+2026-03-11 08:56:38,422 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:56:39,815 - INFO - Driver has been saved in cache [C:\Users\prasa\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-11 08:56:40,043 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:56:40,876 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:56:41,052 - INFO - Driver has been saved in cache [C:\Users\prasa\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-11 08:56:41,856 - INFO - Driver has been saved in cache [C:\Users\prasa\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-11 08:56:55,365 - INFO - Opening application
+2026-03-11 08:56:56,369 - INFO - Opening application
+2026-03-11 08:56:59,891 - INFO - Opening application
+2026-03-11 08:57:08,139 - INFO - Login validation successful
+2026-03-11 08:57:08,140 - INFO - Successfully Logged in
+2026-03-11 08:57:08,140 - INFO - Now adding Products
+2026-03-11 08:57:08,140 - INFO - Searching for Iphone 12
+2026-03-11 08:57:08,140 - INFO - Add Samsung Galaxy S20+
+2026-03-11 08:57:08,141 - INFO - Add Google Pixel 4
+2026-03-11 08:57:09,353 - INFO - Login validation successful
+2026-03-11 08:57:09,353 - INFO - Successfully Logged in
+2026-03-11 08:57:09,353 - INFO - Now adding Products
+2026-03-11 08:57:09,353 - INFO - Searching for Iphone 12
+2026-03-11 08:57:09,353 - INFO - Add Samsung Galaxy S20+
+2026-03-11 08:57:09,353 - INFO - Add Google Pixel 4
+2026-03-11 08:57:12,912 - INFO - Login validation successful
+2026-03-11 08:57:12,912 - INFO - Successfully Logged in
+2026-03-11 08:57:12,912 - INFO - Now adding Products
+2026-03-11 08:57:12,913 - INFO - Searching for Iphone 12
+2026-03-11 08:57:12,913 - INFO - Add Samsung Galaxy S20+
+2026-03-11 08:57:12,913 - INFO - Add Google Pixel 4
+2026-03-11 08:57:30,603 - INFO - Products added to cart
+2026-03-11 08:57:30,603 - INFO - Checkout the Products
+2026-03-11 08:57:30,603 - INFO - Remove one Product from cart
+2026-03-11 08:57:30,603 - INFO - Now Continue
+2026-03-11 08:57:31,137 - INFO - Products added to cart
+2026-03-11 08:57:31,139 - INFO - Checkout the Products
+2026-03-11 08:57:31,141 - INFO - Remove one Product from cart
+2026-03-11 08:57:31,143 - INFO - Now Continue
+2026-03-11 08:57:34,752 - INFO - Products added to cart
+2026-03-11 08:57:34,752 - INFO - Checkout the Products
+2026-03-11 08:57:34,752 - INFO - Remove one Product from cart
+2026-03-11 08:57:34,753 - INFO - Now Continue
+2026-03-11 08:57:38,072 - INFO - Giving Shipping Address
+2026-03-11 08:57:39,245 - INFO - Giving Shipping Address
+2026-03-11 08:57:42,117 - INFO - Giving Shipping Address
+2026-03-11 08:57:52,258 - INFO - Order placed successfully
+2026-03-11 08:57:52,258 - INFO - Successfully Ordered Placed
+2026-03-11 08:57:53,424 - INFO - Order placed successfully
+2026-03-11 08:57:53,424 - INFO - Successfully Ordered Placed
+2026-03-11 08:57:56,227 - INFO - Order placed successfully
+2026-03-11 08:57:56,227 - INFO - Successfully Ordered Placed
+2026-03-11 08:58:00,825 - INFO - Receipt Successfully Downloaded
+2026-03-11 08:58:00,826 - INFO - Back to Home Page
+2026-03-11 08:58:01,582 - INFO - Receipt Successfully Downloaded
+2026-03-11 08:58:01,582 - INFO - Back to Home Page
+2026-03-11 08:58:06,102 - INFO - Logged out Successfully
+2026-03-11 08:58:06,111 - INFO - Receipt Successfully Downloaded
+2026-03-11 08:58:06,111 - INFO - Back to Home Page
+2026-03-11 08:58:06,274 - INFO - Logged out Successfully
+2026-03-11 08:58:09,485 - INFO - Logged out Successfully

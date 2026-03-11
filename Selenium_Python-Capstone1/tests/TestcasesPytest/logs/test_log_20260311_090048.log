@@ -1,0 +1,13 @@
+2026-03-11 09:00:48,352 - INFO - ====== WebDriver manager ======
+2026-03-11 09:00:50,300 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 09:00:51,061 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 09:00:51,760 - INFO - Driver [C:\Users\prasa\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-11 09:00:58,473 - INFO - ====== WebDriver manager ======
+2026-03-11 09:01:00,575 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 09:01:01,283 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 09:01:02,085 - INFO - Driver [C:\Users\prasa\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-11 09:01:05,268 - INFO - ====== WebDriver manager ======
+2026-03-11 09:01:07,244 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 09:01:07,956 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 09:01:08,682 - INFO - Driver [C:\Users\prasa\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-11 09:01:10,792 - INFO - Opening application

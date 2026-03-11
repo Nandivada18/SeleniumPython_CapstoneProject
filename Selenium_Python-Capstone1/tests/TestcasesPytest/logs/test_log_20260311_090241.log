@@ -1,0 +1,43 @@
+2026-03-11 09:02:41,910 - INFO - xdist worker is: gw2
+2026-03-11 09:02:41,911 - INFO - ====== WebDriver manager ======
+2026-03-11 09:02:41,911 - INFO - ====== WebDriver manager ======
+2026-03-11 09:02:44,812 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 09:02:44,820 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 09:02:44,859 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 09:02:45,877 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 09:02:45,880 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 09:02:45,926 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 09:02:46,934 - INFO - Driver [C:\Users\prasa\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-11 09:02:46,934 - INFO - Driver [C:\Users\prasa\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-11 09:02:46,962 - INFO - Driver [C:\Users\prasa\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-11 09:02:56,538 - INFO - Opening application
+2026-03-11 09:02:58,189 - INFO - Opening application
+2026-03-11 09:02:58,712 - INFO - Opening application
+2026-03-11 09:03:11,322 - INFO - Login validation successful
+2026-03-11 09:03:11,322 - INFO - Successfully Logged in
+2026-03-11 09:03:11,322 - INFO - Now adding Products
+2026-03-11 09:03:11,322 - INFO - Searching for Iphone 12
+2026-03-11 09:03:11,323 - INFO - Add Samsung Galaxy S20+
+2026-03-11 09:03:11,323 - INFO - Add Google Pixel 4
+2026-03-11 09:03:11,456 - INFO - Login validation successful
+2026-03-11 09:03:11,456 - INFO - Successfully Logged in
+2026-03-11 09:03:11,456 - INFO - Now adding Products
+2026-03-11 09:03:11,456 - INFO - Searching for Iphone 12
+2026-03-11 09:03:11,456 - INFO - Add Samsung Galaxy S20+
+2026-03-11 09:03:11,457 - INFO - Add Google Pixel 4
+2026-03-11 09:03:11,480 - INFO - Login validation successful
+2026-03-11 09:03:11,480 - INFO - Successfully Logged in
+2026-03-11 09:03:11,480 - INFO - Now adding Products
+2026-03-11 09:03:11,480 - INFO - Searching for Iphone 12
+2026-03-11 09:03:11,480 - INFO - Add Samsung Galaxy S20+
+2026-03-11 09:03:11,481 - INFO - Add Google Pixel 4
+2026-03-11 09:03:34,727 - INFO - Products added to cart
+2026-03-11 09:03:34,727 - INFO - Checkout the Products
+2026-03-11 09:03:34,728 - INFO - Remove one Product from cart
+2026-03-11 09:03:34,728 - INFO - Now Continue
+2026-03-11 09:03:42,293 - INFO - Giving Shipping Address
+2026-03-11 09:03:55,904 - INFO - Order placed successfully
+2026-03-11 09:03:55,905 - INFO - Successfully Ordered Placed
+2026-03-11 09:04:06,258 - INFO - Receipt Successfully Downloaded
+2026-03-11 09:04:06,258 - INFO - Back to Home Page
+2026-03-11 09:04:09,443 - INFO - Logged out Successfully

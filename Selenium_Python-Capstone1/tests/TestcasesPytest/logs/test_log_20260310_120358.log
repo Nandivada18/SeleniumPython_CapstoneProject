@@ -1,0 +1,26 @@
+2026-03-10 12:03:58,495 - INFO - ====== WebDriver manager ======
+2026-03-10 12:04:03,389 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 12:04:04,835 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 12:04:05,950 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 12:04:06,991 - INFO - Getting latest mozilla release info for v0.36.0
+2026-03-10 12:04:08,299 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+2026-03-10 12:04:11,166 - INFO - Driver downloading response is 200
+2026-03-10 12:04:11,753 - INFO - Get LATEST geckodriver version for 148.0 firefox
+2026-03-10 12:04:12,861 - INFO - Driver has been saved in cache [C:\Users\prasa\.wdm\drivers\geckodriver\win64\v0.36.0]
+2026-03-10 12:04:38,333 - INFO - Opening application
+2026-03-10 12:04:50,418 - INFO - Login validation successful
+2026-03-10 12:04:50,419 - INFO - Successfully Logged in
+2026-03-10 12:04:50,419 - INFO - Now adding Products
+2026-03-10 12:04:50,419 - INFO - Searching for Iphone 12
+2026-03-10 12:04:50,420 - INFO - Add Samsung Galaxy S20+
+2026-03-10 12:04:50,420 - INFO - Add Google Pixel 4
+2026-03-10 12:05:11,000 - INFO - Products added to cart
+2026-03-10 12:05:11,001 - INFO - Checkout the Products
+2026-03-10 12:05:11,001 - INFO - Remove one Product from cart
+2026-03-10 12:05:11,001 - INFO - Now Continue
+2026-03-10 12:05:18,304 - INFO - Giving Shipping Address
+2026-03-10 12:05:31,676 - INFO - Order placed successfully
+2026-03-10 12:05:31,677 - INFO - Successfully Ordered Placed
+2026-03-10 12:05:39,069 - INFO - Receipt Successfully Downloaded
+2026-03-10 12:05:39,069 - INFO - Back to Home Page
+2026-03-10 12:05:42,202 - INFO - Logged out Successfully

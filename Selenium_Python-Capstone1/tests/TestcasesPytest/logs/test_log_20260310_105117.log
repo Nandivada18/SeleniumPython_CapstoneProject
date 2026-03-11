@@ -1,0 +1,28 @@
+2026-03-10 10:51:17,628 - INFO - xdist worker is: gw2
+2026-03-10 10:51:17,645 - INFO - ====== WebDriver manager ======
+2026-03-10 10:51:24,476 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-10 10:51:26,246 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-10 10:51:27,839 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-10 10:51:30,864 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-10 10:51:30,886 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-10 10:51:30,887 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-10 10:51:32,395 - INFO - Driver downloading response is 200
+2026-03-10 10:51:40,110 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-10 10:51:41,994 - INFO - Driver has been saved in cache [C:\Users\prasa\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-10 10:52:10,553 - INFO - Opening application
+2026-03-10 10:52:27,977 - INFO - Login validation successful
+2026-03-10 10:52:27,977 - INFO - Successfully Logged in
+2026-03-10 10:52:27,977 - INFO - Now adding Products
+2026-03-10 10:52:27,978 - INFO - Searching for Iphone 12
+2026-03-10 10:52:27,978 - INFO - Add Samsung Galaxy S20+
+2026-03-10 10:52:27,979 - INFO - Add Google Pixel 4
+2026-03-10 10:52:57,856 - INFO - Products added to cart
+2026-03-10 10:52:57,857 - INFO - Checkout the Products
+2026-03-10 10:52:57,858 - INFO - Remove one Product from cart
+2026-03-10 10:52:57,859 - INFO - Now Continue
+2026-03-10 10:53:06,030 - INFO - Giving Shipping Address
+2026-03-10 10:53:23,651 - INFO - Order placed successfully
+2026-03-10 10:53:23,652 - INFO - Successfully Ordered Placed
+2026-03-10 10:53:36,628 - INFO - Receipt Successfully Downloaded
+2026-03-10 10:53:36,629 - INFO - Back to Home Page
+2026-03-10 10:53:40,546 - INFO - Logged out Successfully

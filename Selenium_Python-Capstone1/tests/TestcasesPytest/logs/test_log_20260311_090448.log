@@ -1,0 +1,22 @@
+2026-03-11 09:04:48,071 - INFO - xdist worker is: gw2
+2026-03-11 09:04:48,072 - INFO - ====== WebDriver manager ======
+2026-03-11 09:04:50,455 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 09:04:51,337 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 09:04:52,119 - INFO - Driver [C:\Users\prasa\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-11 09:05:02,435 - INFO - Opening application
+2026-03-11 09:05:15,586 - INFO - Login validation successful
+2026-03-11 09:05:15,586 - INFO - Successfully Logged in
+2026-03-11 09:05:15,588 - INFO - Now adding Products
+2026-03-11 09:05:15,590 - INFO - Searching for Iphone 12
+2026-03-11 09:05:15,590 - INFO - Add Samsung Galaxy S20+
+2026-03-11 09:05:15,591 - INFO - Add Google Pixel 4
+2026-03-11 09:05:38,248 - INFO - Products added to cart
+2026-03-11 09:05:38,248 - INFO - Checkout the Products
+2026-03-11 09:05:38,249 - INFO - Remove one Product from cart
+2026-03-11 09:05:38,249 - INFO - Now Continue
+2026-03-11 09:05:45,835 - INFO - Giving Shipping Address
+2026-03-11 09:06:00,359 - INFO - Order placed successfully
+2026-03-11 09:06:00,360 - INFO - Successfully Ordered Placed
+2026-03-11 09:06:08,388 - INFO - Receipt Successfully Downloaded
+2026-03-11 09:06:08,392 - INFO - Back to Home Page
+2026-03-11 09:06:14,686 - INFO - Logged out Successfully

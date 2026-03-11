@@ -1,0 +1,73 @@
+2026-03-09 12:51:08,956 - INFO - xdist worker is: gw1
+2026-03-09 12:51:08,957 - INFO - ====== WebDriver manager ======
+2026-03-09 12:51:12,423 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 12:51:12,431 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 12:51:12,451 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 12:51:13,549 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 12:51:13,557 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 12:51:13,581 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 12:51:14,681 - INFO - Driver [C:\Users\prasa\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 12:51:14,685 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 12:51:19,100 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-09 12:51:19,121 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-09 12:51:19,122 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-09 12:51:19,173 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-09 12:51:19,190 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-09 12:51:19,190 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-09 12:51:19,255 - INFO - Opening application
+2026-03-09 12:51:20,434 - INFO - Driver downloading response is 200
+2026-03-09 12:51:20,481 - INFO - Driver downloading response is 200
+2026-03-09 12:51:26,217 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 12:51:27,303 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-09 12:51:28,300 - INFO - Driver has been saved in cache [C:\Users\prasa\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-09 12:51:29,221 - INFO - Driver has been saved in cache [C:\Users\prasa\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-09 12:51:42,619 - INFO - Opening application
+2026-03-09 12:51:44,694 - INFO - Opening application
+2026-03-09 12:51:46,908 - INFO - Login validation successful
+2026-03-09 12:51:46,908 - INFO - Successfully Logged in
+2026-03-09 12:51:46,908 - INFO - Now adding Products
+2026-03-09 12:51:46,909 - INFO - Searching for Iphone 12
+2026-03-09 12:51:46,909 - INFO - Add Samsung Galaxy S20+
+2026-03-09 12:51:46,909 - INFO - Add Google Pixel 4
+2026-03-09 12:51:57,893 - INFO - Login validation successful
+2026-03-09 12:51:57,893 - INFO - Successfully Logged in
+2026-03-09 12:51:57,893 - INFO - Now adding Products
+2026-03-09 12:51:57,894 - INFO - Searching for Iphone 12
+2026-03-09 12:51:57,894 - INFO - Add Samsung Galaxy S20+
+2026-03-09 12:51:57,894 - INFO - Add Google Pixel 4
+2026-03-09 12:51:58,952 - INFO - Login validation successful
+2026-03-09 12:51:58,952 - INFO - Successfully Logged in
+2026-03-09 12:51:58,952 - INFO - Now adding Products
+2026-03-09 12:51:58,953 - INFO - Searching for Iphone 12
+2026-03-09 12:51:58,953 - INFO - Add Samsung Galaxy S20+
+2026-03-09 12:51:58,953 - INFO - Add Google Pixel 4
+2026-03-09 12:52:10,391 - INFO - Products added to cart
+2026-03-09 12:52:10,392 - INFO - Checkout the Products
+2026-03-09 12:52:10,392 - INFO - Remove one Product from cart
+2026-03-09 12:52:10,392 - INFO - Now Continue
+2026-03-09 12:52:17,989 - INFO - Giving Shipping Address
+2026-03-09 12:52:20,774 - INFO - Products added to cart
+2026-03-09 12:52:20,774 - INFO - Checkout the Products
+2026-03-09 12:52:20,775 - INFO - Remove one Product from cart
+2026-03-09 12:52:20,775 - INFO - Now Continue
+2026-03-09 12:52:22,379 - INFO - Products added to cart
+2026-03-09 12:52:22,380 - INFO - Checkout the Products
+2026-03-09 12:52:22,380 - INFO - Remove one Product from cart
+2026-03-09 12:52:22,380 - INFO - Now Continue
+2026-03-09 12:52:28,206 - INFO - Giving Shipping Address
+2026-03-09 12:52:29,729 - INFO - Giving Shipping Address
+2026-03-09 12:52:32,250 - INFO - Order placed successfully
+2026-03-09 12:52:32,251 - INFO - Successfully Ordered Placed
+2026-03-09 12:52:44,654 - INFO - Receipt Successfully Downloaded
+2026-03-09 12:52:44,657 - INFO - Back to Home Page
+2026-03-09 12:52:46,660 - INFO - Order placed successfully
+2026-03-09 12:52:46,660 - INFO - Successfully Ordered Placed
+2026-03-09 12:52:48,271 - INFO - Logged out Successfully
+2026-03-09 12:52:48,792 - INFO - Order placed successfully
+2026-03-09 12:52:48,793 - INFO - Successfully Ordered Placed
+2026-03-09 12:52:54,333 - INFO - Receipt Successfully Downloaded
+2026-03-09 12:52:54,338 - INFO - Back to Home Page
+2026-03-09 12:52:58,464 - INFO - Receipt Successfully Downloaded
+2026-03-09 12:52:58,465 - INFO - Back to Home Page
+2026-03-09 12:52:58,624 - INFO - Logged out Successfully
+2026-03-09 12:53:01,941 - INFO - Logged out Successfully

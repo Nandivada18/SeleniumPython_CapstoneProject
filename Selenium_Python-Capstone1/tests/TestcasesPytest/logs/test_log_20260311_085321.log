@@ -1,0 +1,10 @@
+2026-03-11 08:53:21,966 - INFO - ====== WebDriver manager ======
+2026-03-11 08:53:24,073 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:53:25,596 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:53:26,347 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:53:27,832 - INFO - WebDriver version 145.0.7632.117 selected
+2026-03-11 08:53:27,843 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-11 08:53:27,843 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-11 08:53:29,212 - INFO - Driver downloading response is 200
+2026-03-11 08:53:32,531 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-11 08:53:33,371 - INFO - Driver has been saved in cache [C:\Users\prasa\.wdm\drivers\chromedriver\win64\145.0.7632.117]

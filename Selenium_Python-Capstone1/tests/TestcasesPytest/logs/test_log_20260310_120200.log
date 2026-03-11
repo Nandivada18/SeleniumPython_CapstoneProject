@@ -1,0 +1,21 @@
+2026-03-10 12:02:00,562 - INFO - ====== WebDriver manager ======
+2026-03-10 12:02:03,239 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-10 12:02:04,429 - INFO - Get LATEST chromedriver version for google-chrome
+2026-03-10 12:02:05,538 - INFO - Driver [C:\Users\prasa\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-10 12:02:14,551 - INFO - Opening application
+2026-03-10 12:02:27,514 - INFO - Login validation successful
+2026-03-10 12:02:27,514 - INFO - Successfully Logged in
+2026-03-10 12:02:27,514 - INFO - Now adding Products
+2026-03-10 12:02:27,538 - INFO - Searching for Iphone 12
+2026-03-10 12:02:27,538 - INFO - Add Samsung Galaxy S20+
+2026-03-10 12:02:27,538 - INFO - Add Google Pixel 4
+2026-03-10 12:02:51,475 - INFO - Products added to cart
+2026-03-10 12:02:51,475 - INFO - Checkout the Products
+2026-03-10 12:02:51,476 - INFO - Remove one Product from cart
+2026-03-10 12:02:51,476 - INFO - Now Continue
+2026-03-10 12:02:58,917 - INFO - Giving Shipping Address
+2026-03-10 12:03:12,940 - INFO - Order placed successfully
+2026-03-10 12:03:12,940 - INFO - Successfully Ordered Placed
+2026-03-10 12:03:20,773 - INFO - Receipt Successfully Downloaded
+2026-03-10 12:03:20,776 - INFO - Back to Home Page
+2026-03-10 12:03:27,355 - INFO - Logged out Successfully
